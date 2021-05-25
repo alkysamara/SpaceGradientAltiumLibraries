@@ -296,24 +296,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WAKMEILM
 
 [Document16]
-DocumentPath=PCB\SG_PCB_HOLEs.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VWJEREAA
-
-[Document17]
-DocumentPath=PCB\SG_PCB_Chip.PcbLib
+DocumentPath=PCB\SG__PCB_Chip.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -329,8 +312,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSLAATUQ
 
+[Document17]
+DocumentPath=PCB\SG__PCB_HOLEs.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VWJEREAA
+
 [Document18]
-DocumentPath=PCB\SG_PCB_HOLE_Connector.PcbLib
+DocumentPath=PCB\SG__PCB_HOLE_Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -347,7 +347,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ILDJLHAR
 
 [Document19]
-DocumentPath=PCB\SG_PCB_SOT.PcbLib
+DocumentPath=PCB\SG__PCB_SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
