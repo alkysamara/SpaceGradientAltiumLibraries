@@ -313,6 +313,40 @@ GenerateClassCluster=0
 DocumentUniqueId=WAKMEILM
 
 [Document17]
+DocumentPath=SCH\SG_SCH_AltSobor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VPCYKDZQ
+
+[Document18]
+DocumentPath=PCB\SG_PCB_AltSobor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YYXNRQUS
+
+[Document19]
 DocumentPath=PCB\SG__PCB_Chip.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSLAATUQ
 
-[Document18]
+[Document20]
 DocumentPath=PCB\SG__PCB_DIP_SIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWHIDEAQ
 
-[Document19]
+[Document21]
 DocumentPath=PCB\SG__PCB_DO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIQLPWUE
 
-[Document20]
+[Document22]
 DocumentPath=PCB\SG__PCB_HOLEs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VWJEREAA
 
-[Document21]
+[Document23]
 DocumentPath=PCB\SG__PCB_HOLE_Passive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMJTUDEL
 
-[Document22]
+[Document24]
 DocumentPath=PCB\SG__PCB_HOLE_Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILDJLHAR
 
-[Document23]
+[Document25]
 DocumentPath=PCB\SG__PCB_LGA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FOSAUFSU
 
-[Document24]
+[Document26]
 DocumentPath=PCB\SG__PCB_Mechanical.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,7 +482,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPWVKEOR
 
-[Document25]
+[Document27]
 DocumentPath=PCB\SG__PCB_Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -465,7 +499,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MYQVKDVP
 
-[Document26]
+[Document28]
 DocumentPath=PCB\SG__PCB_QFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -482,7 +516,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCCWFSJW
 
-[Document27]
+[Document29]
 DocumentPath=PCB\SG__PCB_QFN_DFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -499,7 +533,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVPQQCVH
 
-[Document28]
+[Document30]
 DocumentPath=PCB\SG__PCB_SMD_Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -516,7 +550,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAVAIKXB
 
-[Document29]
+[Document31]
 DocumentPath=PCB\SG__PCB_SMD_Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -533,7 +567,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASKOOAEW
 
-[Document30]
+[Document32]
 DocumentPath=PCB\SG__PCB_SMD_Passive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -550,7 +584,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYRSLAFY
 
-[Document31]
+[Document33]
 DocumentPath=PCB\SG__PCB_SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -567,7 +601,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VULFGXMM
 
-[Document32]
+[Document34]
 DocumentPath=PCB\SG__PCB_SOD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -584,7 +618,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJRNLMQR
 
-[Document33]
+[Document35]
 DocumentPath=PCB\SG__PCB_SOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -601,7 +635,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULIFAXXP
 
-[Document34]
+[Document36]
 DocumentPath=PCB\SG__PCB_SOT_SC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -618,7 +652,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRJXHSCQ
 
-[Document35]
+[Document37]
 DocumentPath=PCB\SG__PCB_TO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -635,7 +669,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDKFPJGW
 
-[Document36]
+[Document38]
 DocumentPath=PCB\SG__PCB_Unsorted.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -658,7 +692,7 @@ OldFormat=False
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P 1102w
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -760,42 +794,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P 1102w
+TargetPrinter=EPSON L222 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -872,7 +876,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P 1102w
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -894,7 +898,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P 1102w
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -966,7 +970,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P 1102w
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -979,48 +983,43 @@ OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=GOSTBOM
-OutputName3=GOST BOM
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=ReportHierarchy
-OutputName4=Report Project Hierarchy
+OutputType4=Script
+OutputName4=Script Output
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=Script
-OutputName5=Script Output
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=SimpleBOM
-OutputName6=Simple BOM
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=SinglePinNetReporter
-OutputName7=Report Single Pin Nets
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=BOM_ReportCompare
-OutputName8=BOM Compare
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Export Comments
+OutputName8=Export Comments
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Export Comments
-OutputName9=Export Comments
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P 1102w
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1128,7 +1127,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P 1102w
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1172,7 +1171,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P 1102w
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1233,7 +1232,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P 1102w
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
