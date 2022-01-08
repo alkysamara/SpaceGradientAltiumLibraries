@@ -330,7 +330,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VPCYKDZQ
 
 [Document18]
-DocumentPath=PCB\SG_PCB_AltSobor.PcbLib
+DocumentPath=SCH\SG_SCH_Fomin.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -344,7 +344,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YYXNRQUS
+DocumentUniqueId=IJPFGNNQ
 
 [Document19]
 DocumentPath=PCB\SG__PCB_Chip.PcbLib
@@ -686,6 +686,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYOJFMAO
 
+[Document39]
+DocumentPath=PCB\SG_PCB_Fomin.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document40]
+DocumentPath=PCB\SG_PCB_AltSobor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YYXNRQUS
+
 [Generic_IntLibOptions]
 OldFormat=False
 
@@ -798,7 +832,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSON L222 Series
+TargetPrinter=NPI0120CE (HP LaserJet Professional P 1102w)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
