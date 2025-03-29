@@ -18,10 +18,10 @@ RevisionNamingSchemeGUID=
 Name=JLC Gerber.OutJob
 Description=
 TargetOutputMedium=Folder Structure
-VariantName=FirstTest
+VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=EPSON L222 Series
+TargetPrinter=HP LaserJet M1120n MFP Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -125,7 +125,7 @@ Configuration6_Item6=Order=202|Comment=120|Description=120|Designator=120|Footpr
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for MiniSat2_sensors
+OutputBasePath2=Project Outputs for Free Documents
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -165,7 +165,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for MiniSat2_sensors
+OutputBasePath4=Project Outputs for Free Documents
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
